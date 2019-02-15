@@ -4,7 +4,7 @@
   }
   
   h1 {
-  color: #F0F0F0
+  color: #0F0F0F
   }
   
 </style>
