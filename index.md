@@ -3,7 +3,7 @@
   background-color: #b73c07;
   }
   
-  h1 {
+  a {
   color: #0F0F0F
   }
   
