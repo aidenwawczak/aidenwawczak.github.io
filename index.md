@@ -4,7 +4,7 @@
   }
   
   a {
-  color: #0F0F0F
+  color: #F1F1F1
   }
   
 </style>
