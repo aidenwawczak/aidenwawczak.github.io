@@ -1,1 +1,1 @@
-<title>Aiden Wawczak's Blog
+<title>Aiden Wawczak's Blog</title>
